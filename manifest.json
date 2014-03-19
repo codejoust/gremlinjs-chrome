@@ -1,0 +1,14 @@
+{
+	"name": "Chromatic",
+	"version": "0.1",
+	"background": {
+		"scripts": ["background.js"],
+		"persistent": false
+	},
+	"description": "Wreaks chaos on ALL THE WEBPAGES",
+	"permissions": ["activeTab"],
+	"browser_action": {
+		"default_title": "Wreak Chaos"
+	},
+	"manifest_version": 2
+}
